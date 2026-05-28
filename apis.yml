@@ -1,0 +1,32 @@
+aid: digimon-tcg
+name: Digimon TCG
+description: "Search for Digimon cards in digimoncard.io"
+url: https://documenter.getpostman.com/view/14059948/TzecB4fH
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Games & Comics"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Games And Comics
+  - Public APIs
+apis:
+  - name: Digimon TCG
+    description: "Search for Digimon cards in digimoncard.io"
+    humanURL: https://documenter.getpostman.com/view/14059948/TzecB4fH
+    baseURL: https://documenter.getpostman.com/view/14059948/TzecB4fH
+    tags:
+      - Games And Comics
+    properties:
+      - type: Documentation
+        url: https://documenter.getpostman.com/view/14059948/TzecB4fH
+common:
+  - type: Website
+    url: https://documenter.getpostman.com/view/14059948/TzecB4fH
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
