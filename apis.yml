@@ -1,4 +1,16 @@
 aid: digimon-tcg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/digimon-tcg.png
 name: Digimon TCG
 description: "Search for Digimon cards in digimoncard.io"
 url: https://documenter.getpostman.com/view/14059948/TzecB4fH
