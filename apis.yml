@@ -33,13 +33,13 @@ x-category: "Games & Comics"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Games And Comics
   - Public APIs
+  - Gaming
+  - Card Games
 apis:
   - name: Digimon TCG
     description: "Search for Digimon cards in digimoncard.io"
     humanURL: https://documenter.getpostman.com/view/14059948/TzecB4fH
-    baseURL: https://documenter.getpostman.com/view/14059948/TzecB4fH
     tags:
       - Games And Comics
     properties:
@@ -57,3 +57,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-tags-removed:
+- Games And Comics
