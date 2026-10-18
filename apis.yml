@@ -40,7 +40,8 @@ apis:
   - name: Digimon TCG
     description: "Search for Digimon cards in digimoncard.io"
     humanURL: https://documenter.getpostman.com/view/14059948/TzecB4fH
-    tags:
+    tags: []
+    tags_raw:
       - Games And Comics
     properties:
       - type: Documentation
